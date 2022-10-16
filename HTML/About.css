@@ -1,0 +1,41 @@
+.box4{
+    width: 50%;
+    height: 660px;
+    float: left;
+    background-color: lightblue;
+    }
+    .box4 h4{
+    font-size: 25px;
+    width: 80%;
+    margin-left: 80px;
+    margin-top: 80px;
+    
+    }
+    .box4 p{
+    margin: 0 80px;
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: justify;
+    }
+
+
+.cimg{
+        width: 50%;
+        height: 660px;
+        float: left;
+        background-color: lightblue;
+        }
+        .cimg h4{
+        font-size: 25px;
+        width: 80%;
+        margin-left: 80px;
+        margin-top: 80px;
+        
+        }
+        .cimg p{
+        margin: 0 80px;
+        margin-top: 10px;
+        font-size: 20px;
+        text-align: justify;
+        }
+
